@@ -1,4 +1,4 @@
-Live Link: https://jedwards87.github.io/updated-portfolio/
+Live Link: https://jedwards87.github.io/Updated-Portfolio-2/
 
 As a new web developer I needed to update my portfolio. I have included some of my past projects as exampes of my work as well as links to my github, linkedin and resume.
 
